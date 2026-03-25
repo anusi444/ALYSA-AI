@@ -1,15 +1,45 @@
-<!-- 🔥 CYBER BANNER -->
+<pre align="center">
+ █████╗ ██╗   ██╗██╗   ██╗███████╗ █████╗ 
+██╔══██╗██║   ██║╚██╗ ██╔╝██╔════╝██╔══██╗
+███████║██║   ██║ ╚████╔╝ ███████╗███████║
+██╔══██║██║   ██║  ╚██╔╝  ╚════██║██╔══██║
+██║  ██║╚██████╔╝   ██║   ███████║██║  ██║
+╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚══════╝╚═╝  ╚═╝
 
-<h1 align="center">
-<pre>
- █████╗ ██╗     ██╗   ██╗███████╗ █████╗ 
-██╔══██╗██║     ██║   ██║██╔════╝██╔══██╗
-███████║██║     ██║   ██║███████╗███████║
-██╔══██║██║     ██║   ██║╚════██║██╔══██║
-██║  ██║███████╗╚██████╔╝███████║██║  ██║
-╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
+        🤖  A L Y S A  🤖
 </pre>
-</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=32&center=true&vCenter=true&width=900&lines=ALYSA+AI+ASSISTANT;Next-Gen+Voice+Intelligence;Powered+by+Gemini+AI;Your+Personal+Jarvis+System" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Gemini-blue?style=for-the-badge&logo=google" />
+  <img src="https://img.shields.io/badge/Voice-Controlled-Python-green?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Project-ALYSA-red?style=for-the-badge" />
+</p>
+
+<p align="center">
+  ⚡ Real-Time Voice Assistant • Smart Automation • AI Powered ⚡
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=32&center=true&vCenter=true&width=900&lines=ALYSA+AI+ASSISTANT;Next-Gen+Voice+Intelligence;Powered+by+Gemini+AI;Your+Personal+Jarvis+System" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Gemini-blue?style=for-the-badge&logo=google" />
+  <img src="https://img.shields.io/badge/Voice-Controlled-Python-green?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Project-ALYSA-red?style=for-the-badge" />
+</p>
+
+<p align="center">
+  ⚡ Real-Time Voice Assistant • Smart Automation • AI Powered ⚡
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=32&center=true&vCenter=true&width=900&lines=ALYSA+AI+ASSISTANT;Next-Gen+Voice+Intelligence;Powered+by+Gemini+AI;Your+Personal+Jarvis+System" />
