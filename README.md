@@ -1,70 +1,164 @@
-<h1 align="center">🤖 ALYSA AI ASSISTANT</h1>
+<!-- 🔥 CYBER BANNER -->
+
+<h1 align="center">
+<pre>
+ █████╗ ██╗     ██╗   ██╗███████╗ █████╗ 
+██╔══██╗██║     ██║   ██║██╔════╝██╔══██╗
+███████║██║     ██║   ██║███████╗███████║
+██╔══██║██║     ██║   ██║╚════██║██╔══██║
+██║  ██║███████╗╚██████╔╝███████║██║  ██║
+╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
+</pre>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=900&lines=ALYSA+AI+ASSISTANT;Voice-Controlled+Smart+Assistant;Powered+by+Gemini+AI;Built+with+Python+%F0%9F%9A%80">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=32&center=true&vCenter=true&width=900&lines=ALYSA+AI+ASSISTANT;Next-Gen+Voice+Intelligence;Powered+by+Gemini+AI;Your+Personal+Jarvis+System" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Gemini-blue?style=for-the-badge&logo=google" />
+  <img src="https://img.shields.io/badge/Voice-Controlled-green?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Built%20By-Anurag-red?style=for-the-badge" />
+</p>
+
+<p align="center">
+  ⚡ Real-Time Voice Assistant • Smart Automation • AI Powered ⚡
+</p>
+
+
+
+<h1 align="center">🤖 A.L.Y.S.A — AI VOICE ASSISTANT</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=900&lines=ALYSA+AI+ASSISTANT;Voice+Activated+Intelligence;Powered+by+Gemini+AI;Your+Personal+Jarvis+Experience">
+</p>
+
+<p align="center">
+  <b>⚡ Real-time Voice AI • Smart Automation • Personal Intelligence System ⚡</b>
 </p>
 
 ---
 
-## 🧠 About ALYSA
+# ⚡ SYSTEM OVERVIEW
 
-**ALYSA** is a powerful voice-controlled AI assistant built using Python.
-It can listen, understand, and respond to commands in real-time using **Google Gemini AI**.
+ALYSA is a **real-time voice-controlled AI assistant** designed to behave like a personal digital companion.
+It listens, understands, processes, and responds instantly using **Gemini AI + Speech Intelligence**.
 
----
-
-## ✨ Features
-
-🚀 Voice Activation (Wake word: *Alysa / Alexa*)
-🧠 AI-powered responses (Gemini AI)
-🎤 Real-time speech recognition
-🔊 Natural voice output (Edge TTS)
-🌐 Open websites (Google, YouTube)
-⏰ Tell time
-🌦 Live weather updates
-🧠 Memory system (remembers user data)
-💻 Open apps (Notepad, Chrome, VS Code)
-🔄 Continuous listening mode
-🛑 Voice-based shutdown
+> Think Jarvis — but built in Python.
 
 ---
 
-## 🎯 How It Works
+# 🧠 CORE CAPABILITIES
 
-1. Start the program
-2. Say **"Alysa"** or **"Alexa"**
-3. Give a command
-4. Get instant response
+```
+🎤 LISTEN  →  🧠 PROCESS  →  💬 RESPOND  →  🔄 CONTINUE
+```
 
----
-
-## 🖥️ Tech Stack
-
-* **Python**
-* **Google Gemini AI (google-genai)**
-* **SpeechRecognition**
-* **Edge TTS**
-* **CustomTkinter (GUI)**
-* **Pygame (audio)**
+* Wake-word detection (Alysa / Alexa)
+* Continuous listening mode
+* AI-powered responses
+* Real-time command execution
+* Memory-based personalization
 
 ---
 
-## ⚙️ Installation
+# 🔥 FEATURE MATRIX
 
-### 1️⃣ Clone Repository
+## 🎙 Voice Intelligence
+
+* Real-time speech recognition
+* Wake word activation system
+* Continuous listening loop
+* Interrupt handling system
+
+## 🧠 AI Brain
+
+* Powered by Gemini AI
+* Context-aware responses
+* Memory-based personalization
+* Fast, optimized responses
+
+## ⚙️ System Control
+
+* Open apps (Chrome, Notepad)
+* Web automation (Google, YouTube)
+* System commands (shutdown, restart)
+
+## 🌐 Smart Utilities
+
+* Weather updates (API-based)
+* Time & system info
+* Live internet search
+
+## 🧠 Memory System
+
+* Stores user preferences
+* Recall past interactions
+* Personalized responses
+
+---
+
+# 🧩 SYSTEM ARCHITECTURE
+
+```
+                🎤 USER VOICE
+                      │
+                      ▼
+            ┌───────────────────┐
+            │ Speech Recognition│
+            └───────────────────┘
+                      │
+                      ▼
+            ┌───────────────────┐
+            │ Command Processor │
+            └───────────────────┘
+                      │
+        ┌─────────────┼─────────────┐
+        ▼             ▼             ▼
+   🧠 Gemini AI   💾 Memory     ⚙️ System Actions
+        │             │             │
+        └───────┬─────┴─────┬──────┘
+                ▼           ▼
+            🔊 Voice Output (TTS)
+```
+
+---
+
+# 🛠 TECH STACK
+
+| Layer         | Technology                   |
+| ------------- | ---------------------------- |
+| AI Engine     | Google Gemini (google-genai) |
+| Voice Input   | SpeechRecognition            |
+| Voice Output  | Edge TTS                     |
+| GUI           | CustomTkinter                |
+| Audio Engine  | Pygame                       |
+| Backend Logic | Python                       |
+| APIs          | OpenWeather                  |
+
+---
+
+# 🚀 GETTING STARTED
+
+## 1️⃣ Clone Repository
 
 ```bash
 git clone https://github.com/your-username/alysa-ai.git
 cd alysa-ai
 ```
 
-### 2️⃣ Install Dependencies
+---
+
+## 2️⃣ Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3️⃣ Setup Environment
+---
+
+## 3️⃣ Configure Environment
 
 Create `.env` file:
 
@@ -75,7 +169,7 @@ WEATHER_API_KEY=your_weather_key_here
 
 ---
 
-## ▶️ Run Project
+## 4️⃣ Run Assistant
 
 ```bash
 python main.py
@@ -83,69 +177,81 @@ python main.py
 
 ---
 
-## 🎤 Example Commands
+# 🎤 COMMAND EXAMPLES
 
-* "Alysa"
-* "What is AI?"
-* "Open YouTube"
-* "Tell me the time"
-* "What is the weather"
-* "Search latest tech news"
-* "Remember my name is Anurag"
-* "Shutdown yourself"
-
----
-
-## 🧠 AI Model Used
-
-👉 **Gemini 1.5 Flash (Latest)**
-
-* Fast ⚡
-* Free-tier friendly 💰
-* Optimized for voice assistants 🎤
+```
+"Alysa"
+"What is AI?"
+"Open YouTube"
+"Tell me the time"
+"What is the weather"
+"Search latest news"
+"Remember my name is Anurag"
+"Shutdown yourself"
+```
 
 ---
 
-## 📸 Preview
+# ⚡ EXECUTION FLOW
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-4c4ec8f6-6d76-4c2f-bc72-7ec9b63b1d39.gif" width="500">
-</p>
-
----
-
-## 🔥 Future Upgrades
-
-* Wake word detection without button
-* Iron Man / Jarvis UI
-* Offline commands
-* Mobile app integration
+```
+WAKE WORD → ACTIVE MODE → COMMAND → AI / SYSTEM → RESPONSE
+```
 
 ---
 
-## 👨‍💻 Author
+# 📊 SYSTEM STATES
+
+| State       | Description            |
+| ----------- | ---------------------- |
+| 🟡 Idle     | Waiting for wake word  |
+| 🟢 Active   | Listening & processing |
+| 🔴 Speaking | Responding via TTS     |
+| ⚫ Shutdown  | Program exit           |
+
+---
+
+# 🔮 FUTURE ROADMAP
+
+* 🧠 Offline AI mode
+* 🖥 Jarvis-style holographic UI
+* 📱 Mobile integration
+* 🧬 Emotion-aware responses
+* 🔐 Advanced security commands
+
+---
+
+# 👨‍💻 DEVELOPER
 
 **Anurag Singh**
 
----
-
-## ⭐ Support
-
-If you like this project:
-
-👉 Star ⭐ this repository
-👉 Share it
-👉 Contribute
+> Building intelligent systems, not just projects.
 
 ---
 
-## ⚠️ Disclaimer
+# 🤝 CONTRIBUTING
 
-This project is for educational purposes.
-API keys should be kept private.
+Want to improve ALYSA?
+
+```
+1. Fork repo
+2. Create branch
+3. Make changes
+4. Submit PR
+```
+
+---
+
+# 📜 LICENSE
+
+MIT License — Free to use and modify.
 
 ---
 
 <p align="center">
-  <b>🔥 Built with Passion by Anurag 🔥</b>
+  ⚡ BUILT WITH PASSION • POWERED BY AI ⚡  
+</p>
+
+<p align="center">
+  ⭐ Star this repo if you like it
 </p>
