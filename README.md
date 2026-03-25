@@ -1,10 +1,9 @@
+# 🤖 A.L.Y.S.A — AI Voice Assistant
 
-█████╗ ██╗ ██╗ ██╗███████╗ █████╗
-██╔══██╗██║ ╚██╗ ██╔╝██╔════╝██╔══██╗
-███████║██║ ╚████╔╝ ███████╗███████║
-██╔══██║██║ ╚██╔╝ ╚════██║██╔══██║
-██║ ██║███████╗ ██║ ███████║██║ ██║
-╚═╝ ╚═╝╚══════╝ ╚═╝ ╚══════╝╚═╝ ╚═╝
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=900&lines=ALYSA+AI+Assistant;Voice+Activated+Intelligence;Powered+by+Gemini+AI;Your+Personal+Jarvis+System">
+</p>
+
 <p align="center">
   <b>Real-Time Voice AI • Smart Automation • Intelligent Personal Assistant</b>
 </p>
